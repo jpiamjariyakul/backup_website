@@ -33,6 +33,12 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 # Sets compatibility for GitHub Pages
 gem "github-pages", group: :jekyll_plugins
 
+# Gems for feed-related plugins
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+
 # Theme-related stuffs
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 # gem "minima", "~> 2.5"
