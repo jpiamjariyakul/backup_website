@@ -38,8 +38,9 @@ group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
   gem "jekyll-seo-tag", "~> 2.6"
 end
-plugins:
-  - jekyll-sitemap
+
+# plugins:
+#   - jekyll-sitemap
 
 # Theme-related stuffs
 # This is the default theme for new Jekyll sites. You may change this to anything you like.

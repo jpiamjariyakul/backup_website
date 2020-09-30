@@ -4,15 +4,14 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi! I'm Jay.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I'm a final-year Electrical & Electronic Engineering undergraduate student at the University of Bristol who, while not programming or making games and/or websites, is also heavily involved with the Bristol University Music Society, Music Theatre Bristol, A Cappella Society, and Art Society.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Additionally I am also an aspiring sound designer & a music technology engineer, looking to combine the arts of musical performance & composition with engineering practices. This means I also have a bunch of synthesisers in my dorm.
 
+Basically, I'm a rockstar-wannabe. Who isn't really a rockstar.
 
-[jekyll-organization]: https://github.com/jekyll
+I also don't have a synthesiser in my room. Yet.
+
+That's it from me for now!
