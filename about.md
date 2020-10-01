@@ -14,4 +14,8 @@ Basically, I'm a rockstar-wannabe. Who isn't really a rockstar.
 
 I also don't have a synthesiser in my room. Yet.
 
-That's it from me for now!
+That's it from me for now! Stay tuned for more!
+
+I might also add my profile image here too.
+
+God, it's 2AM. I need to go decaf.

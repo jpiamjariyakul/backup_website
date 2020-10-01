@@ -36,7 +36,7 @@ body {
  */
 h1, h2, h3, h4, h5, h6,
 p, blockquote, pre,
-ul, ol, dl, figure,
+ul, ol, dl, figure, 
 %vertical-rhythm {
   margin-bottom: $spacing-unit / 2;
   background-color: white;
@@ -44,7 +44,14 @@ ul, ol, dl, figure,
   padding: 8pt;
 }
 
-
+// Concerns iFrame elements (ie YouTube embedded links)
+// iframe {
+//   display: flex;
+//   flex-direction: column;
+//   background-color: white;
+//   // color: white;
+//   padding: 8pt;
+// }
 
 /**
  * `main` element
