@@ -59,7 +59,7 @@ Amongst the stars
 
 *Adapted from the final data transmissions of the Opportunity Mars Rover (2004-2019)*
 
-****
+***
 
 This is a sequel poem to "Once Ye Tasted Flight", written from the perspective of NASA's Opportunity rover, personified as the lone rover on the desolate red planet, sent with no companions, no friends, nothing but a mission.
 
